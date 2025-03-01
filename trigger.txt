@@ -1,1 +1,1 @@
-langgenius/dify-sandbox:0.2.1 registry.ap-southeast-1.aliyuncs.com/markvq-ai/langgenius/dify-sandbox:0.2.1
+langgenius/dify-sandbox:0.2.1 registry.ap-southeast-1.aliyuncs.com/markvq-ai/langgenius/dify-sandbox:0.2.1 
