@@ -1,1 +1,1 @@
-postgres:15-alpine registry.ap-southeast-1.aliyuncs.com/markvq-ai/postgres:15-alpine
+redis:6-alpine registry.ap-southeast-1.aliyuncs.com/markvq-ai/redis:6-alpine
