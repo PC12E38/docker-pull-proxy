@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.19.0 registry.ap-southeast-1.aliyuncs.com/markvq-ai/weaviate:1.19.0
+langgenius/dify-api:1.0.0 registry.ap-southeast-1.aliyuncs.com/markvq-ai/dify-api:1.0.0
