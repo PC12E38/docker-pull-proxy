@@ -1,1 +1,1 @@
-nginx:latest registry.ap-southeast-1.aliyuncs.com/markvq-ai/nginx:latest
+langgenius/qdrant:v1.7.3 registry.ap-southeast-1.aliyuncs.com/markvq-ai/qdrant:v1.7.3
