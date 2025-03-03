@@ -1,1 +1,1 @@
-ubuntu/squid:latest registry.ap-southeast-1.aliyuncs.com/markvq-ai/squid:latest
+semitechnologies/weaviate:1.19.0 registry.ap-southeast-1.aliyuncs.com/markvq-ai/weaviate:1.19.0
