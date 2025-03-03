@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.0.3-local registry.ap-southeast-1.aliyuncs.com/markvq-ai/dify-plugin-daemon:0.0.3-local
+ubuntu/squid:latest registry.ap-southeast-1.aliyuncs.com/markvq-ai/squid:latest
