@@ -1,1 +1,1 @@
-searxng/searxng:last registry.ap-southeast-1.aliyuncs.com/markvq-ai/searxng:last
+searxng/searxng registry.ap-southeast-1.aliyuncs.com/markvq-ai/searxng:last
