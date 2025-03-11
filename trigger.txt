@@ -1,1 +1,1 @@
-tensorchord/pgvecto-rs:pg16-v0.3.0 registry.ap-southeast-1.aliyuncs.com/markvq-ai/pgvecto-rs:pg16-v0.3.0
+searxng:last registry.ap-southeast-1.aliyuncs.com/markvq-ai/searxng:last
