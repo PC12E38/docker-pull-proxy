@@ -1,1 +1,1 @@
-pgvector/pgvector:pg16 registry.ap-southeast-1.aliyuncs.com/markvq-ai/pgvector:pg16
+tensorchord/pgvecto-rs:pg16-v0.3.0 registry.ap-southeast-1.aliyuncs.com/markvq-ai/pgvecto-rs:pg16-v0.3.0
