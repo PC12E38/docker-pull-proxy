@@ -1,1 +1,1 @@
-ghcr.io/chroma-core/chroma:0.5.20 registry.ap-southeast-1.aliyuncs.com/markvq-ai/chroma:0.5.20
+container-registry.oracle.com/database/free:latest registry.ap-southeast-1.aliyuncs.com/markvq-ai/free:latest
