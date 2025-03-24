@@ -1,1 +1,1 @@
-confluentinc/ksqldb-server:0.29.0 registry.cn-beijing.aliyuncs.com/ijx-public/ksqldb-server:0.29.0
+ghcr.io/chroma-core/chroma:0.5.20 registry.ap-southeast-1.aliyuncs.com/markvq-ai/chroma:0.5.20
