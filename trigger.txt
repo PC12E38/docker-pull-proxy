@@ -1,1 +1,1 @@
-tensorchord/pgvecto-rs:pg16-v0.3.0 registry.ap-southeast-1.aliyuncs.com/markvq-ai/pgvecto-rs:pg16-v0.3.0
+ghcr.io/chroma-core/chroma:0.5.20 registry.ap-southeast-1.aliyuncs.com/markvq-ai//chroma:0.5.20
