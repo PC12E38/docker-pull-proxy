@@ -1,1 +1,1 @@
-langgenius/dify-api:1.1.2 registry.ap-southeast-1.aliyuncs.com/markvq-ai/dify-api:1.1.2
+langgenius/dify-web:1.1.2 registry.ap-southeast-1.aliyuncs.com/markvq-ai/dify-web:1.1.2
